@@ -61,7 +61,7 @@ data:
         - needs-rebase
         repos:
         - allanhung-personal-com/jx3-kubernetes
-      target_url: http://deck-jx.
+      target_url: http://deck-jx.47.90.139.173.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
